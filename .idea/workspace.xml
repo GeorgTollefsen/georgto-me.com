@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee83ad3-9bec-4947-bed1-4015c73390b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eksamen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eksamen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eksamen/com/company/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eksamen/com/company/Exercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/eksamen/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eksamen/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585747552588</updated>
       <workItem from="1585747554214" duration="17011000" />
+      <workItem from="1585920690731" duration="961000" />
     </task>
     <servers />
   </component>
@@ -122,6 +117,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="657" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.821@0.23.1440.821" timestamp="1585912323956" />
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585921674214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585921674214" />
     <state width="963" height="261" key="GridCell.Tab.0.bottom" timestamp="1585916639052">
       <screen x="0" y="23" width="1440" height="826" />
     </state>

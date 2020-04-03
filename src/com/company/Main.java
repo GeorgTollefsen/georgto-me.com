@@ -10,7 +10,7 @@ public class Main {
     public static ArrayList<Person> personer = new ArrayList<>();
     public static Person selectedPerson;
     public static ArrayList<Program> programs = new ArrayList<Program>();
-
+/*Test test*/
     public static void main(String[] args) {
         System.out.println("Good day to you sir! Check out our awsome menu for home workout");
         Exercise spinning = new EnduranceExercise("Spinning", 20, 1, 1, 3, "Spinning Cycle");
