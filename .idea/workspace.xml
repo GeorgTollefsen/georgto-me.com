@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee83ad3-9bec-4947-bed1-4015c73390b7" name="Default Changelist" comment="" />
+    <list default="true" id="6ee83ad3-9bec-4947-bed1-4015c73390b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eksamen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eksamen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/eksamen/com/company/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eksamen/com/company/Exercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/eksamen/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/eksamen/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +39,28 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/georgto-me.com" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZwQCxbrNC1ELszqsT4x10AxXAT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -87,45 +108,72 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/georgto-me.com" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="765" y="297" key="#com.intellij.ide.util.MemberChooser" timestamp="1585837662825">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="765" y="297" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585837662825" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1585906733774">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="657" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585912323956">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="657" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.821@0.23.1440.821" timestamp="1585912323956" />
+    <state width="963" height="261" key="GridCell.Tab.0.bottom" timestamp="1585916639052">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585906733774" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1585906733774">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585916639052" />
+    <state width="963" height="261" key="GridCell.Tab.0.center" timestamp="1585916639050">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585906733774" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1585906733774">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585916639050" />
+    <state width="963" height="261" key="GridCell.Tab.0.left" timestamp="1585916639050">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585906733774" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1585906733774">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585916639050" />
+    <state width="963" height="261" key="GridCell.Tab.0.right" timestamp="1585916639051">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585906733774" />
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1585850233520">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585916639051" />
+    <state width="963" height="261" key="GridCell.Tab.1.bottom" timestamp="1585916639054">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585850233520" />
-    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1585850233519">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585916639054" />
+    <state width="963" height="261" key="GridCell.Tab.1.center" timestamp="1585916639052">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585850233519" />
-    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1585850233519">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1585916639052" />
+    <state width="963" height="261" key="GridCell.Tab.1.left" timestamp="1585916639052">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585850233519" />
-    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1585850233520">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="963" height="261" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1585916639052" />
+    <state width="963" height="261" key="GridCell.Tab.1.right" timestamp="1585916639053">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1585850233520" />
+    <state width="963" height="261" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1585916639053" />
+    <state x="313" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1585912871667">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="313" y="70" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1585912297138" />
+    <state x="313" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1585912871667" />
+    <state x="551" y="335" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585912852422">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="551" y="335" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.823@0.23.1440.823" timestamp="1585912852422" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/eksamen$Main.ic" NAME="Main Coverage Results" MODIFIED="1585850217455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Exam$Main.ic" NAME="Main Coverage Results" MODIFIED="1585916488477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

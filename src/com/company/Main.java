@@ -1,5 +1,6 @@
 package com.company;
 
+import javax.xml.namespace.QName;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -25,12 +26,14 @@ public class Main {
         Person mia = new Person("Mia", spinning, 3, spinningProgram);
         Person thea = new Person("Thea", spinning, 1, spinningProgram);
         Person aina = new Person("Aina" ,spinning, 4, spinningProgram);
+        Person andrea = new Person("Andrea" ,spinning, 1, spinningProgram);
 
         personer.add(georg);
         personer.add(pernille);
         personer.add(mia);
         personer.add(thea);
         personer.add(aina);
+        personer.add(andrea);
 
         callMenu();
 
